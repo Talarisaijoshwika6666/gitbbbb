@@ -3,3 +3,4 @@ num2=6
 sum=num1+num2
 print("The sum of two numbers is:",sum)
 print("hi")
+print("hello")
